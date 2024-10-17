@@ -1,8 +1,19 @@
-DOMAIN-SUFFIX,6bcloud.top
+OMAIN-SUFFIX,6bcloud.top
 DOMAIN-SUFFIX,viptwo.top
 DOMAIN-SUFFIX,followme.com
 DOMAIN-SUFFIX,followme.ceo
 DOMAIN-SUFFIX,whatsmydns.me
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,livednow.org
+OMAIN-SUFFIX,wx.sb
+OMAIN-SUFFIX,pixman.io
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
