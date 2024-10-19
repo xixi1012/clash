@@ -12,8 +12,8 @@ DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,livednow.org
-OMAIN-SUFFIX,wx.sb
-OMAIN-SUFFIX,pixman.io
+DOMAIN-SUFFIX,wx.sb
+DOMAIN-SUFFIX,pixman.io
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
